@@ -11,7 +11,7 @@
 		<input style="background: #F2F2F2; width: 360px; height: 50px; border-radius: 4px; border: none;"  type="text" required>
 		</p>
 	<p>
-<button style="background-image: url(http://www.mamamoldova.com/wp-content/uploads/2016/05/семена.jpg); width: 131.61px; height: 131.61px; border-radius: 4px; border: none; font: SF Pro; font-size: 20px; color: #FFFFFF; font-weight: 600; ">Семена</button>
+<button style="background-image: url(https://imgur.com/a/dYMJO47); width: 131.61px; height: 131.61px; border-radius: 4px; border: none; font: SF Pro; font-size: 20px; color: #FFFFFF; font-weight: 600; ">Семена</button>
 </p>
 <body>
 </body>
